@@ -87,7 +87,7 @@ This project focuses on exploring the relationships between drugs, their side ef
 ## 👤 Author
 
 - **Name**: Rishav Kumar Sharma  
-- **Role**: Junior Data Scientist  
-- **GitHub**: [github.com/rishavsharma](https://github.com/your-profile)  
+- **Role**: Data Analyst Intern
+- **GitHub**: [github.com/rishav63](https://github.com/your-profile)  
 - **Email**: rishav6363@gmail.com
 
