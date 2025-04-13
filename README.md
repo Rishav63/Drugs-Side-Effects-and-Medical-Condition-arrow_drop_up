@@ -14,8 +14,7 @@ This project focuses on exploring the relationships between drugs, their side ef
 - `drug_classes`, `medical_condition`, `side_effects`
 - `rx_otc`, `pregnancy_category`, `csa`, `alcohol`
 - `rating`, `no_of_reviews`, `activity`
-
----
+  
 
 ## ⚙️ Tools & Libraries
 
